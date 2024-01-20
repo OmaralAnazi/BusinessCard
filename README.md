@@ -19,5 +19,5 @@ The "Business Card" project is a guided exercise within the Scrimba Front-End De
 Clone the repository, and open the `index.html` file in your browser to view the business card.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://prismatic-clafoutis-6d6c83.netlify.app/)
 
